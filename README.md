@@ -1,5 +1,5 @@
 # sopel-karma
-Sopel IRC bot plugin to modify and track user Karma. Intented for some interoperability with [Limnoria's karma](https://github.com/progval/Limnoria/tree/master/plugins/Karma).
+Sopel IRC bot plugin to modify and track user Karma. Intended for some interoperability with [Limnoria's karma](https://github.com/progval/Limnoria/tree/master/plugins/Karma).
 
 ### Setup
 
