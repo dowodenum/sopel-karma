@@ -64,7 +64,7 @@ def getKarma(bot, trigger):
         bot.say('%s has not gained or lost any karma.' % nick)
 
 @require_admin(message=nonAdminMSG, reply=True)
-@commands("wipe")
+@commands("wipekarma")
 @example(".wipekarma <nick>")
 def wipeKarma(bot, trigger):
     """Deletes the karma entries for <nick>"""
